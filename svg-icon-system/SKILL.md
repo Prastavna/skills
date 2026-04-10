@@ -3,7 +3,7 @@ name: svg-icon-system
 description: Create, optimize, and standardize SVG icons for web and cross-platform use. Use this when building icon libraries, design systems, or replacing icon packs like Font Awesome, Heroicons, or Material Icons.
 license: MIT
 metadata:
-  author: your-org
+  author: prastavna
   version: "1.0.0"
   category: design-system
   tags: svg, icons, ui, frontend, design-system, accessibility
@@ -346,5 +346,3 @@ Avoid the following:
 * Existing libraries (Heroicons, Material Icons, Feather Icons)
 
 ---
-
-```
